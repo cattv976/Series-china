@@ -1,5 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.24hd.media/wp-content/uploads/2026/09/Cycle-of-Sin-2026.webp" group-title="Cycle of Sin (2026) สามเราเอาตาย", EP1
+#EXTVLCOPT:http-referer=https://www.24hd.media/
+https://vdohls.com/Ln2jZuS_uR-e0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.24hd.media/wp-content/uploads/2026/09/Cycle-of-Sin-2026.webp" group-title="Cycle of Sin (2026) สามเราเอาตาย", EP2
+#EXTVLCOPT:http-referer=https://www.24hd.media/
+https://s8-t25.97bf1.com/hls/EqVTalFon8k9UO1D6kyIdrnfuEukvO7k/master.m3u8?token=7efa68dd7dda64f0f8be2c1fffc18a14-1790270097-2a06%3A98c0%3A3600%3A%3A103-26a1d41234b4f06ff9ac1885b0390cfe968609ffc47c64bc8042f57b4dd2a96b
+#EXTINF:-1 tvg-logo="https://www.24hd.media/wp-content/uploads/2026/09/Cycle-of-Sin-2026.webp" group-title="Cycle of Sin (2026) สามเราเอาตาย", EP3
+#EXTVLCOPT:http-referer=https://www.24hd.media/
+#EXTINF:-1 tvg-logo="https://www.24hd.media/wp-content/uploads/2026/09/Cycle-of-Sin-2026.webp" group-title="Cycle of Sin (2026) สามเราเอาตาย", EP4
+#EXTVLCOPT:http-referer=https://www.24hd.media/
+#EXTINF:-1 tvg-logo="https://www.24hd.media/wp-content/uploads/2026/09/Cycle-of-Sin-2026.webp" group-title="Cycle of Sin (2026) สามเราเอาตาย", EP5
+#EXTVLCOPT:http-referer=https://www.24hd.media/
+#EXTINF:-1 tvg-logo="https://www.24hd.media/wp-content/uploads/2026/09/Cycle-of-Sin-2026.webp" group-title="Cycle of Sin (2026) สามเราเอาตาย", EP6
+#EXTVLCOPT:http-referer=https://www.24hd.media/
+#EXTINF:-1 tvg-logo="https://www.24hd.media/wp-content/uploads/2026/09/Cycle-of-Sin-2026.webp" group-title="Cycle of Sin (2026) สามเราเอาตาย", EP7
+#EXTVLCOPT:http-referer=https://www.24hd.media/
+#EXTINF:-1 tvg-logo="https://www.24hd.media/wp-content/uploads/2026/09/Cycle-of-Sin-2026.webp" group-title="Cycle of Sin (2026) สามเราเอาตาย", EP8
+#EXTVLCOPT:http-referer=https://www.24hd.media/
+#EXTINF:-1 tvg-logo="https://www.24hd.media/wp-content/uploads/2026/09/Cycle-of-Sin-2026.webp" group-title="Cycle of Sin (2026) สามเราเอาตาย", EP9
+#EXTVLCOPT:http-referer=https://www.24hd.media/
+#EXTINF:-1 tvg-logo="https://www.24hd.media/wp-content/uploads/2026/09/Cycle-of-Sin-2026.webp" group-title="Cycle of Sin (2026) สามเราเอาตาย", EP10
+#EXTVLCOPT:http-referer=https://www.24hd.media/
+
 #EXTINF:-1 tvg-logo="https://www.seriedayz.com/wp-content/uploads/2026/09/Blossom-Through-the-Cloud-2026-จุดจอดหัวใจปักหมุดไว้ที่เธอ-169x300.jpg" group-title="Blossom Through the Cloud (2026) จุดจอดหัวใจปักหมุดไว้ที่เธอ", EP1
 #EXTVLCOPT:http-referer=https://www.serie-days.com/
 https://main.24playerhd.com/m3u8/c90dcca174151f5414970753/c90dcca174151f5414970753438.m3u8
